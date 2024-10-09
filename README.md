@@ -11,7 +11,7 @@
 - 🐶 **Animal Classification with Self-Attention**: Integrating self-attention layers into ResNet152V2 to classify animal images.
 - 🗣️ **Sentiment Analysis**: Exploring **LSTM**, **GRU**, and **RoBERTa** for sentiment classification on an e-commerce self made dataset. Experimenting with embedding techniques like **Word2Vec** and **TF-IDF**.
 - 👀 **LLM**: Comming soon 
-- 👨‍💻 All of my projects are available at [moki.web.id](moki.web.id)
+- 👨‍💻 All of my projects are available at [moki.web.id](https://www.moki.web.id)
 
 ## 🌱 What Currently I'm Learning
 - **CI/CD** for deploying machine learning models and web applications using **Docker** and **Laravel Sail**.
