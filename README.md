@@ -1,22 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhamad Fajar</h1>
-<h3 align="center">🚀 Passionate Computer Science student with a focus on Artificial Intelligence and Machine Learning. I have hands-on experience building and deploying deep learning models, working on natural language processing (NLP), computer vision projects, and integrating robust machine learning pipelines</h3>
-
-## 🧠 What I Do
-- **AI Research**: From **image classification** using state-of-the-art models like ResNet and Vision Transformer, to exploring **sentiment analysis** with LSTM and XLM-RoBERTa, I love diving deep into complex problems.
-- **Deep Learning Development**: I build and optimize neural network architectures, applying frameworks like **TensorFlow**, **PyTorch**, and **Keras**.
-- **Model Experimentation**: Tracking experiments, evaluating performance metrics, and fine-tuning models using **MLFlow** and **TensorBoard**.
-- **Full Stack Integration**: Combining machine learning with web technologies for end-to-end solutions, including portfolio websites and AI-powered applications.
-
-## 📈 Current Projects
-- 🐶 **Animal Classification with Self-Attention**: Integrating self-attention layers into ResNet152V2 to classify animal images.
-- 🗣️ **Sentiment Analysis**: Exploring **LSTM**, **GRU**, and **RoBERTa** for sentiment classification on an e-commerce self made dataset. Experimenting with embedding techniques like **Word2Vec** and **TF-IDF**.
-- 👀 **LLM**: Comming soon 
-- 👨‍💻 All of my projects are available at [moki.web.id](https://www.moki.web.id)
-
-## 🌱 What Currently I'm Learning
-- **CI/CD** for deploying machine learning models and web applications using **Docker** and **Laravel Sail**.
-- **Linux** mastery for optimizing development environments.
-- **Large Language Model** or LLM
+<h1 align="center">Hi 👋, I'm Fajar</h1>
+<h3 align="center">Love to study AI, Software Engineer, Science, and many more.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
