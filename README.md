@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fajar</h1>
-<h3 align="center">Love to study AI, Software Engineer, Science, and many more.</h3>
+<h3 align="center">Love to study AI, Software Engineer, Science, and Technology.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
