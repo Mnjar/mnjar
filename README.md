@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently an intern at **Bombagrup as a Software Engineer**
 
-- 📫 How to reach me **fajar2605@gmail.com**
+- 📫 How to reach me **fajarftr2605@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
